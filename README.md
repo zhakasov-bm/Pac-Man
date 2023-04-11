@@ -1,3 +1,3 @@
 # Pac-Man
-## Stack
+## Tech Stack
 * OOP
